@@ -8,3 +8,5 @@ Future improvements for the project include implementing an advanced order-valid
 
 Author: Fatema Islam Maisha
 Course: CSE 100 (Computational Thinking and Problem Solving), Green University of Bangladesh
+### 🎮 Play Online
+You can play the live version directly in your browser here: [Pizza Dash on Scratch](https://scratch.mit.edu/projects/1311607188)
